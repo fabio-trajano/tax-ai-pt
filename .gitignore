@@ -169,3 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+#FAISS
+faiss_index/
+.faiss
+.pkl
